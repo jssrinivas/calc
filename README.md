@@ -1,6 +1,5 @@
 The Calculator
 
-<!DOCTYPE html>
 <html>
   <head>
     
