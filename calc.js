@@ -2,7 +2,7 @@ function myFuncAdd(){
   var num1=document.getElementById("num1").value;
   var num2=document.getElementById("num2").value;
   
-  var num3=num1+num2;
+  var num3=parseInt(num1)+parseInt(num2);
   
   document.getElementById("para2").innerHTML = "The sum of the two numbers is: ";
   document.getElementById("para1").innerHTML = (num3);
