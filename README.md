@@ -1,3 +1,1 @@
-Web Calculator
-
-<a href="calc.html">
+<a href="calc.html">Web Calculator</a>
